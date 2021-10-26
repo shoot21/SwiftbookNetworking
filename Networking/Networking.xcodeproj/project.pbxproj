@@ -10,6 +10,7 @@
 		96314BD72727792300BFA1EC /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96314BD62727792300BFA1EC /* MainViewController.swift */; };
 		96314BD92727792F00BFA1EC /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96314BD82727792F00BFA1EC /* CollectionViewCell.swift */; };
 		96314BDB27281EDE00BFA1EC /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96314BDA27281EDE00BFA1EC /* NetworkManager.swift */; };
+		96314BDD272838BB00BFA1EC /* ImageProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96314BDC272838BB00BFA1EC /* ImageProperties.swift */; };
 		A806CF94210B4EA300574064 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A806CF93210B4EA300574064 /* ImageViewController.swift */; };
 		A8255C80214103450074F6D0 /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8255C7F214103450074F6D0 /* WebViewController.swift */; };
 		A8255C8421410AFA0074F6D0 /* CoursesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8255C8321410AFA0074F6D0 /* CoursesViewController.swift */; };
@@ -26,6 +27,7 @@
 		96314BD62727792300BFA1EC /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		96314BD82727792F00BFA1EC /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 		96314BDA27281EDE00BFA1EC /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		96314BDC272838BB00BFA1EC /* ImageProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageProperties.swift; sourceTree = "<group>"; };
 		A806CF93210B4EA300574064 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 		A8255C7F214103450074F6D0 /* WebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		A8255C8321410AFA0074F6D0 /* CoursesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoursesViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +79,7 @@
 				A806CF93210B4EA300574064 /* ImageViewController.swift */,
 				A8255C8321410AFA0074F6D0 /* CoursesViewController.swift */,
 				A895579D214278DB00355357 /* Course.swift */,
+				96314BDC272838BB00BFA1EC /* ImageProperties.swift */,
 				A895579F2142808400355357 /* WebsiteDescription.swift */,
 				A8255C8521410DFE0074F6D0 /* TableViewCell.swift */,
 				A8255C7F214103450074F6D0 /* WebViewController.swift */,
@@ -160,6 +163,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				96314BDD272838BB00BFA1EC /* ImageProperties.swift in Sources */,
 				96314BD92727792F00BFA1EC /* CollectionViewCell.swift in Sources */,
 				A895579E214278DB00355357 /* Course.swift in Sources */,
 				A89557A02142808500355357 /* WebsiteDescription.swift in Sources */,
